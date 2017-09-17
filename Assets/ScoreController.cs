@@ -2,8 +2,8 @@
 using System.Collections;
 using UnityEngine.UI; 
 
-public class ScoreController : MonoBehaviour
-{
+public class ScoreController : MonoBehaviour{
+	
 	public Text ScoreText; //Text用変数
 	private int score = 0; //スコア計算用変数
 
